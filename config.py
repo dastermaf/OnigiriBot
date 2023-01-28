@@ -1,0 +1,3 @@
+token = ''
+
+ADMIN_ID = ""
